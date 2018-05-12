@@ -1,0 +1,33 @@
+_repo: Les-mis-rables-Tome-V--13-Jean-Valjean_17519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17519'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Epic literature'
+- !lcsh 'Ex-convicts -- Fiction'
+title: 'Les misérables Tome V: Jean Valjean'
+url: http://www.gutenberg.org/ebooks/17519
