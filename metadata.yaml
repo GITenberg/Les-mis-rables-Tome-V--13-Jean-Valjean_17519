@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17519#Les-mis-rables-Tome-V--13-Jean-Valjean
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-15'
 gutenberg_type: Text
